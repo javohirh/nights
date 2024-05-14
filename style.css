@@ -274,7 +274,7 @@ p {
 .about-section {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 38px;
 }
 
 .about-us h2 {
@@ -304,7 +304,7 @@ p {
 .jack {
   position: absolute;
   left: -7%;
-  top: 36%;
+  top: 33%;
   background-color: #fff;
   border: none;
   border-radius: 8px;
