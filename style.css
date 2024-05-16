@@ -493,5 +493,6 @@ footer h5 {
   padding-bottom: 20px;
 }
 .footer-logo {
-  transform: translateX(50%);
+  position: relative;
+  left: 48%;
 }
