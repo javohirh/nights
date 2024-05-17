@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: #011627;
+}
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -502,4 +505,11 @@ footer h5 {
 .footer-logo {
   position: relative;
   left: 48%;
+}
+footer {
+  position: relative;
+}
+.footer-gradient {
+  width: 100%;
+  background-image: linear-gradient(#01162700 0%, #011627 100%, #011627 100%);
 }
